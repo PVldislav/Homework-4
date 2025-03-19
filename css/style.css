@@ -1,0 +1,45 @@
+* {
+    color: red;
+}
+
+h1 {
+    color: rgb(0, 255, 255);
+}
+
+.texta {
+    color: rgb(0, 187, 56);
+}
+
+#textaaa {
+    color: rgb(251, 255, 0);
+}
+
+a[href$=".html"] {
+    color: green;
+}
+
+p#textaaa {
+    color: rgb(255, 187, 0);
+}
+
+#textaaa.textaa {
+    color: rgb(0, 81, 255);
+}
+
+p#textaaa.textaa {
+    color: rgb(204, 0, 255);
+}
+
+#portenti {
+    color: rgb(0, 255, 242)!important;
+}
+
+span ~ p {
+    color: rgb(192, 109, 0);
+}
+
+div p:nth-of-type(3) {
+    color: rgb(0, 255, 157);
+}
+
+
